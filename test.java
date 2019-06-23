@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 class Mytest {
 
-	Checking check;
+	CheckingTest check;
 	String output;
 	@BeforeEach
 	public void test1() {
