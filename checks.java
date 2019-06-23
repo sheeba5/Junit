@@ -1,6 +1,6 @@
 package testing;
 
-public class Checking {
+public class CheckingTest {
 
 	public String checks(String s) {
 		StringBuilder str=new StringBuilder(st);
